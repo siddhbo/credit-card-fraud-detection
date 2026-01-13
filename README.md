@@ -22,3 +22,7 @@ The model is highly effective but has room for improvement in **Recall**. In fra
 
 1. Implementing **SMOTE** to handle class imbalance.
 2. Testing **Random Forest** or **XGBoost** classifiers.
+
+3. ### Visual Results
+![Confusion Matrix](confusion_matrix.png)
+![ROC Curve](roc_curve.png)
